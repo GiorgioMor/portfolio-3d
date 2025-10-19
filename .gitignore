@@ -1,0 +1,13 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Vite cache
+.vite/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+.qodo
